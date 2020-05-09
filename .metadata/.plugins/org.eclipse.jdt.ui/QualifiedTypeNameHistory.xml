@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.manu.patterns.factory.CheesePizza"/>
+<fullyQualifiedTypeName name="com.manu.patterns.factory.Chickenpizza"/>
+<fullyQualifiedTypeName name="com.manu.patterns.factory.VeggiePizza"/>
+<fullyQualifiedTypeName name="com.manu.patterns.factory.Pizza"/>
+<fullyQualifiedTypeName name="com.manu.patterns.factory.PizzaFactory"/>
+<fullyQualifiedTypeName name="com.manu.patterns.factory.PizzaStore"/>
+</qualifiedTypeNameHistroy>

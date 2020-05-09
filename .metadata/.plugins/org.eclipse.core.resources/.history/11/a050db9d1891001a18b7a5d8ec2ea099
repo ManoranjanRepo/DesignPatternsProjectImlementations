@@ -1,0 +1,6 @@
+package com.manu.patterns.factory;
+
+public class Test {
+  PizzaStore p = new PizzaStore();
+  p.orderPizza("chicken");
+}

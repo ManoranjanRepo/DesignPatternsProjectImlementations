@@ -1,0 +1,5 @@
+package com.manu.patterns.factory;
+
+public class Factory {
+
+}

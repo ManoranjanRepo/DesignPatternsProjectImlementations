@@ -1,0 +1,5 @@
+package com.manu.patterns.singleton;
+
+public class DateUtil {
+
+}
